@@ -1,0 +1,4 @@
+target/
+__pycache__/
+*.f32
+*.u32
